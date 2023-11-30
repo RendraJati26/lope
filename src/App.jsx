@@ -297,6 +297,7 @@ function App() {
               }}
               className="text-3xl mb-5 text-center"
             >
+              {/* fewwef */}
               Tak perlu gelisah dan terburu buru
             </motion.h2>
 
